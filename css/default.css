@@ -29,7 +29,7 @@ height: 100%;
   top: 0;
   display: flex;
   flex-direction: column;
-
+  overflow: hidden;
 }
 .actions > button {
 padding: 10px 20px;

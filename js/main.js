@@ -27,7 +27,7 @@
  * 一直以来，想拥有一只皮卡皮卡皮卡丘，但是呢，只能画一只送给自己。
  */
 .preview{
-  height: 100%;
+  height: 50vh;
   width: 100%;
   justify-content: center;
   align-items: center;
