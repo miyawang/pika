@@ -18,6 +18,7 @@ body {
 }
 .preview-wrapper {
   flex:1;
+  height: 50vh;
 }
 #code{
 overflow: hidden;
