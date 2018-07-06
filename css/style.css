@@ -51,7 +51,7 @@ body{
   position: absolute;
   border-radius: 50%;
   left: 6px;
-  top:0px;
+  top:-2px;
   border: 2px solid #000;
   background:#fff;
 }
@@ -96,7 +96,7 @@ body{
   border-top: none;
   border-right:none;
   transform: rotate(-30deg);
-  margin-right: 3px;
+  margin-right: 2px;
 }
 .upper-lip.right{
   left: 50%;
@@ -106,7 +106,7 @@ body{
   border-top: none;
   border-left:none;
   transform: rotate(30deg);
-  margin-left: 3px;
+  margin-left: 2px;
 }
 .lower-lip {
   width: 120px;
@@ -126,7 +126,7 @@ overflow: hidden;
   width:200px;
   position: absolute;
   left: 50%;
-  bottom: -35px;
+  bottom: -37px;
   margin-left: -100px;
   /* border:2px solid #666; */
 }
