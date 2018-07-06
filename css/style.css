@@ -57,8 +57,7 @@ body{
 }
 .eye.left {
   right: 50%;
-  margin-right: 112px;
-  /* 加上鼻子的宽度 */
+  margin-right: 90px;
 }
 .eye.right {
   left: 50%;
@@ -75,8 +74,7 @@ body{
 }
 .apple-cheeked.left{
   right: 50%;
-  margin-right: 138px;
-  /* 加上鼻子的宽度 */
+  margin-right: 116px;
 }
 .apple-cheeked.right{
   left: 50%;
